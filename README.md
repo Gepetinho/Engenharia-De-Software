@@ -3,8 +3,10 @@
 Para a realização deste trabalho, utilizou-se o framework VUE, por ter uma boa curva de aprendizado.
 
 # Requisitos
-Não é necessário nenhum requisito.
-
+É interessante fazer o download do gerenciador de pacotes do nodejs, que é o npm. Para fazer o download do npm, basta:
+1. abrir o terminal.
+2. Digitar sudo npm install.
+Com esses passos já é possível obter o gerenciador.
 ## Como Instalar?
 Para utilizar o framework não é necessário a instalação de nenhum componente, basta incluir a tag  <script> com o caminho correto. 'Vue' será registrado como uma variável global.
 
